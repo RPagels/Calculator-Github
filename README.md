@@ -5,6 +5,8 @@ a pocket calculator.
 
 [![Build Status](https://rpagels.visualstudio.com/Calculator-Github/_apis/build/status/Calculator-Github-CI?branchName=master)](https://rpagels.visualstudio.com/Calculator-Github/_build/latest?definitionId=142&branchName=master)
 
+RAndy
+
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
