@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://rpagels.visualstudio.com/calculator/_apis/build/status/RPagels.calculator?branchName=master)](https://rpagels.visualstudio.com/calculator/_build/latest?definitionId=96&branchName=master)
+[![Build Status](https://rpagels.visualstudio.com/Calculator-Github/_apis/build/status/Calculator-Github-CI?branchName=master)](https://rpagels.visualstudio.com/Calculator-Github/_build/latest?definitionId=142&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
